@@ -24,6 +24,31 @@ body {
   padding-bottom: 19px;
 }
 
+* {
+  font-family: 'Crimson Text', serif;
+}
+
+input {
+  margin: 10px;
+  padding: 10px;
+}
+button {
+  margin: 20px;
+  padding: 10px;
+}
+.newnew {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  height: 60px;
+  margin: 10px;
+}
+
+h2 {}
+
 /* Custom page footer */
 .footer {
   padding-top: 19px;
